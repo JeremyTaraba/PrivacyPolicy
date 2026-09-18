@@ -40,4 +40,4 @@ We reserve the right to modify or replace these Terms at any time. We will provi
 
 ### 9. Contact Information
 If you have any questions about these Terms, please contact us at:
-[Insert Support Email Address or GitHub Link]
+froggyweatherinfo@gmail.com
